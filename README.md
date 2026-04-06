@@ -1,6 +1,9 @@
 # 🤖 AI Customer Support Intelligence
 ![AI Customer Support Assistant Screenshot](app_screenshot.png)
 
+## 🔗 Live Demo
+Experience the AI Assistant in real-time: [Click here to launch the App](https://ai-customer-support-intelligence-rtpbm2lqccg3fbkto2azul.streamlit.app/)
+
 A deep learning-powered customer support chatbot built with **TensorFlow** and **Streamlit**. This assistant can classify 27 different customer intents and provide appropriate automated responses.
 
 ## 🚀 Features
